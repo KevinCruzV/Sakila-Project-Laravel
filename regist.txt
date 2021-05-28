@@ -1,0 +1,11 @@
+Avoir un log sur le site
+
+composer require laravel/breeze --dev
+
+16:05
+php artisan breeze:install
+
+16:05
+npm install && npm run dev
+
+php artisan migrate
